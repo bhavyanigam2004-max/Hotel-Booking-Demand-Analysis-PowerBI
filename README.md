@@ -3,7 +3,8 @@
 ## 📌 Project Overview
 This project analyzes **119,390+ hotel booking records** across City Hotels and Resort Hotels to uncover booking seasonality, customer demographics, revenue drivers, and the root causes behind high cancellation rates. Designed an executive-level interactive Power BI dashboard to support data-driven revenue and occupancy strategies.
 
-![Hotel Booking Demand Dashboard](dashboard.png)
+![Hotel Booking Demand Dashboard](<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/f9deb14d-b9e7-4f3b-947d-dc77b2d6423d" />
+)
 
 ---
 
